@@ -1,0 +1,9 @@
+{
+  "name": "Instant Plant Health Diagnosis",
+  "description": "Real-time AI-powered plant disease diagnosis for farmers supporting Tomato, Potato, and Corn with PlantVillage deep learning models, live camera leaf scanning, and full multilingual support in English, Telugu, and Hindi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
